@@ -5,7 +5,7 @@ import { Three } from './Three';
 
 const App = () => (
   <div>
-    <h1>This is Three and React</h1>
+    <h1>Three and React</h1>
   </div>
 );
 
